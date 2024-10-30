@@ -32,6 +32,7 @@ game_over_loc.center=width/2, height*0.5
 
 rodadas = 0
 
+
 pygame.mixer.init()
 pygame.mixer.music.load("musica.mp3")
 pygame.mixer.music.play()
